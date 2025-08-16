@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<index.html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -43,4 +43,5 @@
     </div>
     <div class="controls"><b>Goal:</b> Hit ducks (and ducks in cars). Collect bonus stars.</div>
     <div><span class="btn" id="muteBtn">Toggle Mute</span></div>
+
     <div class="controls" id="stats"></div
